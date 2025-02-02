@@ -84,8 +84,7 @@ Frontend: HTML, CSS, JavaScript
 # Video
 [https://www.loom.com/share/97d0f9212e0c483fa1298b9586470664?sid=fac5ab74-fb6f-4c31-84a1-b70703824bb6]
 
-# Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
 - Leona Theresa Laiju: login.html,index.html,index.js,shop.css,styles.css
