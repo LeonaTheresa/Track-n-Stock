@@ -74,21 +74,14 @@ Frontend: HTML, CSS, JavaScript
 
 
 # Build Photos
-![Team](Add photo of your team here)
+![Team](https://drive.google.com/file/d/17PxhqZ3fViPT1WnqWcPt9CdVjQ8Rs6vQ/view?usp=sharing)
 
 
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+[https://www.loom.com/share/97d0f9212e0c483fa1298b9586470664?sid=fac5ab74-fb6f-4c31-84a1-b70703824bb6]
 *Explain what the video demonstrates*
 
 # Additional Demos
