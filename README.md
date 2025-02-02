@@ -87,9 +87,9 @@ Frontend: HTML, CSS, JavaScript
 
 
 ## Team Contributions
-- Leona Theresa Laiju: login.html,index.html,index.js,shop.css,styles.css
-- Gayathri Mohan: cart.html,cart.js
-- Febina F: product.html, product.js
+- Leona Theresa Laiju: index.html,index.js,styles.css,product.js,cart.js
+- Gayathri Mohan: cart.html,login.html
+- Febina F: product.html, shop.css 
 
 ---
 Made with ❤️ at TinkerHub
