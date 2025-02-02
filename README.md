@@ -74,7 +74,7 @@ Frontend: HTML, CSS, JavaScript
 
 
 # Build Photos
-![Team](https://drive.google.com/file/d/17PxhqZ3fViPT1WnqWcPt9CdVjQ8Rs6vQ/view?usp=sharing)
+![Team](./WhatsApp Image 2025-02-02 at 10.23.11_95558ee4.jpg)
 
 
 
