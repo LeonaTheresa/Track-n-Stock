@@ -1,0 +1,171 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b8cff0;
+    margin: 0;
+    padding: 0;
+}
+
+.container {     
+    height: 100vh;
+    
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #b8cff0;
+    border-radius: 10px;
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+}
+
+
+
+
+h1 {
+    text-align: center;
+    color: #4CAF50;
+}
+h2 {
+    text-align: center;
+    color: #4CAF50;
+}
+
+.form-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+    width: 45%;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}
+
+button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.expired-warning {
+    color: rgb(55, 2, 2);
+}
+
+.expiringsoon-orange-warning{
+    color: orange;
+}
+
+.expiringsoon-green-warning{
+    color: #45a049;
+}
+.expiringsoon-red-warning{
+    color: red;
+}
+
+
+#itemName{
+    border-color: rgb(12, 146, 128);
+    border-width: 2px;
+}
+#expiryDate{
+    border-color: rgb(12, 146, 128);
+    border-width: 2px;
+}
+
+
+.bottom-right-image {
+    position: absolute;
+    bottom: 20px;  /* Distance from the bottom */
+    right: 20px;   /* Distance from the right */
+  }
+.top-left-image{
+    position: absolute;
+    top: 30px;
+    left: 15px;
+    width: 100px;
+    height: 100px;
+}
+  
+h4{
+    color: darkmagenta;
+}
+
+/* .login-container{
+    height: 100vh;
+    
+    margin: 30px auto;
+    padding: 20px;
+    background-color: #b8cff0;
+    border-radius: 10px;
+} */
+ p{
+    color: #45a049;
+    text-align: center;
+ }
+
+
+
+ /* shopping */
+ .container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+#totalPrice {
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+input[type="number"] {
+    width: 60px;
+    text-align: center;
+}
+
+

@@ -1,0 +1,111 @@
+/* General Styles for both pages */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+h3, h2 {
+    text-align: center;
+    color: #333;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    margin: 5px 0;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-left: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #218838;
+}
+
+#totalPrice {
+    font-weight: bold;
+    color: #28a745;
+}
+
+/* Product List Page */
+#productList {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0;
+}
+
+li button {
+    float: right;
+}
+
+/* Cart Page */
+#cartList {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0;
+}
+
+#cartList li {
+    background-color: #fafafa;
+    border: 1px solid #ddd;
+}
+
+h3 {
+    margin-top: 30px;
+}
+
+#totalPrice {
+    font-size: 1.5em;
+    color: #333;
+}
+
+/* Additional Style Adjustments */
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.container img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Styling for alerts */
+.alert {
+    color: white;
+    background-color: #f44336;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.alert-success {
+    background-color: #4CAF50;
+}
+
+.alert-info {
+    background-color: #2196F3;
+}

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Expiry Tracker</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <img src="bread1.jpeg" class="top-left-image" alt="bread">
+        <!-- <h1>Food Expiry Tracker</h1> -->
+        <h1 id="comp">Food Expiry Tracker</h1>
+        <h2 id="usr">Welcome </h2>
+        <!-- <p id="comp"></p> -->
+        <script>
+            // Call the function to display the stored input on this page
+            window.onload = function() {
+    displayStoredInput();
+  };
+          </script>
+        <br>
+        <br>
+
+
+        <!-- Form to add grocery items -->
+        <div class="form-container">
+            <input type="text" id="itemName" placeholder="Enter grocery item">
+            <input type="date" id="expiryDate">
+            <button id="addItem">Add Grocery</button>
+        </div>
+
+        <!-- List of groceries -->
+         <br>
+         <hr>
+        <h2>Grocery List</h2>
+        <ul id="groceryList"></ul>
+
+        <!-- Section for item recommendations -->
+         <br>
+         <hr>
+        <h2>Recommended Items</h2>
+        <div id="recommendations"></div>
+
+        <br>
+        <br>
+        <hr>
+        <hr>
+        <h4>Save Food... <br>Save Nature... <br>Save Future... </h4>
+       
+
+        
+            <img src="th.jpeg" class="bottom-right-image" alt="image">
+
+        <a href="product.html"><button>Go Shopping</button></a>
+          
+          
+        <a href="login.html"><button>Go Back</button></a>
+
+    </div>
+
+    <script src="index.js"></script>
+</body>
+</html>
+
