@@ -74,7 +74,8 @@ Frontend: HTML, CSS, JavaScript
 
 
 # Build Photos
-![Team](./WhatsApp Image 2025-02-02 at 10.23.11_95558ee4.jpg)
+![Team](./WhatsApp%20Image%202025-02-02%20at%2010.23.11_95558ee4.jpg)
+
 
 
 
@@ -82,7 +83,6 @@ Frontend: HTML, CSS, JavaScript
 ### Project Demo
 # Video
 [https://www.loom.com/share/97d0f9212e0c483fa1298b9586470664?sid=fac5ab74-fb6f-4c31-84a1-b70703824bb6]
-*Explain what the video demonstrates*
 
 # Additional Demos
 [Add any extra demo materials/links]
