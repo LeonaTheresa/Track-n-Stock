@@ -13,7 +13,7 @@ Track-N-Stock a food expiry tracker with smart grocery shopping is a web applica
 - Member 3: Gayathri Mohan - College of Engineering and Management, Punnapra
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[https://leonatheresa.github.io/Track-n-Stock/]
 
 ### Project Description
 The Food Expiry Tracker with Smart Grocery Shopping is a web application that helps users track the expiry dates of food items, manage grocery lists, and calculate the total shopping cost. It sends alerts when items are about to expire and provides smart suggestions for groceries. The goal is to minimize food waste and make shopping more efficient and cost-effective.
